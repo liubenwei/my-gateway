@@ -1,0 +1,7 @@
+gateway:
+  routes:
+    - id: 12312
+      order: 1
+    - id: 12aqwe
+server:
+  port: 6061
