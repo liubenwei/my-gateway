@@ -1,3 +1,5 @@
 # Project exclude paths
 /gateway-core/target/
 /gateway-sample/target/
+.idea
+*.iml
